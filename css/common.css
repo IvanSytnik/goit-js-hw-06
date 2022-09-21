@@ -31,3 +31,6 @@ img {
   width: 300px;
   height: 200px;
 }
+#boxes {
+  display: inline-block;
+}
